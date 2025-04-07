@@ -10,29 +10,40 @@ The CPU with the higher number of points at the end of the all the rounds wins!
 <MATCHUPS>
   
 **MAGE vs MAGE** 
+
   Player with higher POINTS wins.
   The winning player gains their current points.
   The losing player loses their current points.
   If tie, nothing happens.	
 
+
 **MAGE vs FIGHTER**
+
   Player with higher POINTS wins. 
   If MAGE wins, they gain their current points, but FIGHTER gets no penalty.
   If FIGHTER wins, they gain no reward, but MAGE loses their current points. 
   If tie, nothing happens.	
 
+
 **MAGE vs TANK**
+
   MAGE gains their current points.
   TANK loses their current points.
 
+
 **FIGHTER vs FIGHTER**		
+
   Both players win and gain all their current points.	
 
+
 **FIGHTER vs TANK**
+
   TANK loses but with no penalty. 
   FIGHTER wins and gains current points.
 
+
 **TANK vs TANK**
+
   Nothing happens – no penalty or reward.
 
 
