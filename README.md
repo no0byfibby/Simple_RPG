@@ -8,6 +8,7 @@ Each CPU either receives or loses their current round’s points depending on th
 The CPU with the higher number of points at the end of the all the rounds wins!
 
 <MATCHUPS>
+  
 **MAGE vs MAGE** 
   Player with higher POINTS wins.
   The winning player gains their current points.
